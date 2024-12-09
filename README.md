@@ -8,14 +8,9 @@
 ---
 
 ## 🎯 Objetivos
-Aprender a utilizar o sistema de versionamento **Git** e a plataforma **GitHub** para:
-- Criar e configurar repositórios.
-- Gerenciar versões de arquivos e projetos.
-- Colaborar e compartilhar código de forma eficiente.
+Pesquisa na internet, conta no GitHub e conhecimento básico dos comandos Git.
 
 ---
 
 ## 🛠️ Materiais, Métodos e Ferramentas
-- **Conta no GitHub:** Crie ou use uma conta existente em [GitHub](https://github.com/).
-- **Pesquisa na Internet:** Consulte materiais e tutoriais sobre Git e GitHub.
-- **Comandos Git:** Conhecimento básico para executar comandos como `git init`, `git add`, `git commit` e `git push`.
+Nesta atividade, você irá praticar o uso do Git, um sistema de controle de versão distribuído, e do GitHub, uma plataforma de hospedagem de código para controle de versão e colaboração, permitindo que você e outros trabalhem juntos em projetos de qualquer lugar.
